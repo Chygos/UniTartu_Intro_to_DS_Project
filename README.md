@@ -1,6 +1,6 @@
 
 ![UniTartu logo](images/Tartu_Ülikool_logo.svg){.right}
-![electricity](electricity_image.jpg){.center}
+![electricity](images/electricity_image.jpg){.center}
 
 # Forcasting Electricity Consumption
 
