@@ -1,5 +1,5 @@
 
-![page_image](images/electricity_image.jpg)
+![page_image](images/page_design.png)
 
 # Forcasting Electricity Consumption
 
