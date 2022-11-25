@@ -1,6 +1,6 @@
 ![page_image](images/page_design.png)
 
-# [Forcasting Electricity Consumption](https://www.kaggle.com/competitions/predict-electricity-consumption)
+# [Forcasting Household Hourly Electricity Consumption Rate](https://www.kaggle.com/competitions/predict-electricity-consumption)
 
 ## Description
 
