@@ -1,11 +1,4 @@
-<html>
-  <style>
-    body {text-align: justify; font-size: 13;}
-    img {width: 100%;}
-  </style>
-</html>
-
-![page_image](images/page_design.png)
+![page_image](images/page_design.png)(width:100)
 
 # [Forcasting Electricity Consumption](https://www.kaggle.com/competitions/predict-electricity-consumption)
 
