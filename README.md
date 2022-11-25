@@ -1,4 +1,4 @@
-![page_image](images/page_design.png)(width:100)
+![page_image](images/page_design.png)
 
 # [Forcasting Electricity Consumption](https://www.kaggle.com/competitions/predict-electricity-consumption)
 
