@@ -1,6 +1,6 @@
 ![page_image](images/page_design.png)
 
-# [Forcasting Household Hourly Electricity Consumption Rate](https://www.kaggle.com/competitions/predict-electricity-consumption)
+# [Forecasting Household Hourly Electricity Consumption Rate](https://www.kaggle.com/competitions/predict-electricity-consumption)
 
 ## Description
 
@@ -18,13 +18,13 @@ Since the Russian invasion on Ukraine, energy, rent and food costs have skyrocke
 Similarly, the excessive use of electricity causes an increase in the environmental carbon footprint. Enefit, one of the largest energy companies in the Baltic countries is strategizing on a better approach to help their customers achieve their goal while preserving the environment from excess release of carbon. One possible strategy is to forecast energy consumption for a household and optimise its energy usage by controlling smart devices in such a way that they minimise energy cost and the environmental footprint of consumption. Another is the use of solar panels and other forms of cheaper electricity.
 
 ## Aim
-In this project, we aim to develop a predictive model capable of forcasting electricity consumption for a household for the next 7 days. We intend that this project will enable consumers understand their electricity usage and identify the hour(s) of the day when usage is high or least. 
+In this project, we aim to develop a predictive model capable of forecasting electricity consumption for a household for the next 7 days. We intend that this project will enable consumers understand their electricity usage and identify the hour(s) of the day when usage is high or least. 
 
 ## Objectives
 - Use Data visualisation to understand electricity consumption of household
 - Develop at least two machine learning models to predict electricity consumption
 - Compare classical time series model (ARIMA) with machine learning model
-- Forcast electricity consumption for the next 7 days
+- Forecast electricity consumption for the next 7 days
 
 ## Data
 To accomplish this, we will use a historical dataset containing a household's hourly electricity consumption used between Sept 1st, 2021 to 24th August, 2022. A holdout test set is kept to be used for forecasting. The historical data contains 8,592 hourly electricity consumption, with 168 hourly consumption as test set [[link]](https://www.kaggle.com/competitions/predict-electricity-consumption/data).
