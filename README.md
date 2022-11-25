@@ -27,7 +27,7 @@ In this project, we aim to develop a predictive model capable of forcasting elec
 - Forcast electricity consumption for the next 7 days
 
 ## Data
-To accomplish this, we will use a historical dataset containing a household's hourly electricity consumption used between Sept 1st, 2021 to 24th August, 2022. A holdout test set is kept to be used for forecasting. The historical data contains over 8,000 hourly electricity consumption, with over 2000 hourly consumption as test set [[link]](https://www.kaggle.com/competitions/predict-electricity-consumption/data).
+To accomplish this, we will use a historical dataset containing a household's hourly electricity consumption used between Sept 1st, 2021 to 24th August, 2022. A holdout test set is kept to be used for forecasting. The historical data contains 8,592 hourly electricity consumption, with 168 hourly consumption as test set [[link]](https://www.kaggle.com/competitions/predict-electricity-consumption/data).
 
 ### Variables
 
