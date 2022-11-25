@@ -1,3 +1,7 @@
+<style>
+  body{text-align: justify; font-size: 13;}
+  img{width:100%;}
+</style>
 
 ![page_image](images/page_design.png)
 
