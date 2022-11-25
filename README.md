@@ -1,15 +1,16 @@
 
 ![page_image](images/page_design.png)
 
-# ![Forcasting Electricity Consumption](https://www.kaggle.com/competitions/predict-electricity-consumption)
+# [Forcasting Electricity Consumption](https://www.kaggle.com/competitions/predict-electricity-consumption)
 
 ## Description
 
 This repository contains a group project for the Introduction to Data Science course of the University of Tartu.
 Project will be undertaken by 
-- Chigozie Nkwocha
+
 - Wei-Chieh Wang
-- Patricia Kika Obinwanne.
+- Patricia Kika Obinwanne
+- Chigozie Nkwocha
 
 ## Introduction
 
@@ -20,7 +21,7 @@ Similarly, the excessive use of electricity causes an increase in the environmen
 ## Aim
 In this project, we aim to develop a predictive model capable of forcasting electricity consumption for a household for the next 7 days. We intend that this project will enable consumers understand their electricity usage and identify the hour(s) of the day when usage is high or least. 
 
-## Objective
+## Objectives
 - Use Data visualisation to understand electricity consumption of household
 - Develop at least two machine learning models to predict electricity consumption
 - Compare classical time series model (ARIMA) with machine learning model
@@ -43,7 +44,7 @@ wdir | The wind direction in degrees (°)
 wspd | The average wind speed in km/h
 wpgt | The peak wind gust in km/h
 pres | The sea-level air pressure in hPa
-coco | The weather ![condition code](https://dev.meteostat.net/formats.html#weather-condition-codes)
+coco | The weather [condition code](https://dev.meteostat.net/formats.html#weather-condition-codes)
 el_price | the electricity price in Estonia on that hour (€/kWh)
 consumption | the electricity consumption (kWh)
 
