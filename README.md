@@ -51,7 +51,7 @@ consumption | the electricity consumption (kWh)
 
 ### Model Evaluation
 
-## Forcasting
+## Forecasting
 
 
 
