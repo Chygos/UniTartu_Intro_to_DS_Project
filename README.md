@@ -1,7 +1,9 @@
-<style>
-  body {text-align: justify; font-size: 13;}
-  img {width: 100%;}
-</style>
+<html>
+  <style>
+    body {text-align: justify; font-size: 13;}
+    img {width: 100%;}
+  </style>
+</html>
 
 ![page_image](images/page_design.png)
 
