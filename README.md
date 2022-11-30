@@ -47,9 +47,14 @@ coco | The weather [condition code](https://dev.meteostat.net/formats.html#weath
 el_price | the electricity price in Estonia on that hour (€/kWh)
 consumption | the electricity consumption (kWh)
 
+## Model and Approach
+- Classical time series model: AutoRegressive Integrated Moving Average (ARIMA)
+- Machine learning models (Random forest and Gradient Boosting algorithms) by creating lagged features.
+
 ## Results
 
 ### Model Evaluation
+Main metric will be Mean Absolute error (MAE). Other metrics such as root mean squared error (RMSE) and mean absolute percentage error (MAPE) will be used also.
 
 ## Forecasting
 
