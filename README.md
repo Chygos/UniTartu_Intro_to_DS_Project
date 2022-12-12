@@ -54,7 +54,8 @@ consumption | the electricity consumption (kWh)
 ## Results
 
 ### Model Evaluation
-Main metric will be Mean Absolute error (MAE). Other metrics such as root mean squared error (RMSE) and mean absolute percentage error (MAPE) will be used also.
+Main metric will be Mean Absolute error (MAE). The root mean squared error (RMSE) will be used also
+
 
 ## Forecasting
 
