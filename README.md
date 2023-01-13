@@ -47,7 +47,9 @@ coco | The weather [condition code](https://dev.meteostat.net/formats.html#weath
 el_price | the electricity price in Estonia on that hour (€/kWh)
 consumption | the electricity consumption (kWh)
 
-# Data Cleaning and Feature Engineering
+
+## Data Cleaning and Feature Engineering
+
 - Missing values were treated by using a forward fill method, where a missing value was replaced with the data preceding it (since this was a time series), with the assumption that the measurement for the next hour is the same as the previous hour. For prcp and snow, missing values were filled with zero. This is because at those times of the hour, there are no precipitation or snow recorded.
 - Lagged features and time-related (week, month, hour etc) features were created.
 
