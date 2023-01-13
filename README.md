@@ -92,7 +92,7 @@ For the two machine learning algorithms used, hyperparameter tuning was performe
 Main metric will be Mean Absolute error (MAE). The root mean squared error (RMSE) will be used also
 
 ## Results (Heldout data)
-Metric| MAE | RMSE|
+Model | MAE | RMSE|
 ------|-----|------
 ARIMA | 0.4359 | 0.6099
 Random forest| 0.3307 | 0.4480
